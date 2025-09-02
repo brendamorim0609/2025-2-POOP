@@ -1,0 +1,15 @@
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.AssemblyInfoInputs.cache
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.AssemblyInfo.cs
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.csproj.CoreCompileInputs.cache
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.sourcelink.json
+/workspaces/2025-2-POOP/bin/Debug/net8.0/2025-2-POOP
+/workspaces/2025-2-POOP/bin/Debug/net8.0/2025-2-POOP.deps.json
+/workspaces/2025-2-POOP/bin/Debug/net8.0/2025-2-POOP.runtimeconfig.json
+/workspaces/2025-2-POOP/bin/Debug/net8.0/2025-2-POOP.dll
+/workspaces/2025-2-POOP/bin/Debug/net8.0/2025-2-POOP.pdb
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.dll
+/workspaces/2025-2-POOP/obj/Debug/net8.0/refint/2025-2-POOP.dll
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.pdb
+/workspaces/2025-2-POOP/obj/Debug/net8.0/2025-2-POOP.genruntimeconfig.cache
+/workspaces/2025-2-POOP/obj/Debug/net8.0/ref/2025-2-POOP.dll
